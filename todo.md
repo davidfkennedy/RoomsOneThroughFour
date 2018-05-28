@@ -1,10 +1,18 @@
 project.todo
-	- Fix player start position, should be behind the desk at the top.
+	- Fix player start position, should be behind the desk at the top. @done
 	- Fix artwork in opening room @done
 	- Fix end credits
 	- Opening credit font is Didot in the original version.
 	- Check on video player in room 3 (Video texture no longer emmissive) @done
-	- Room 1 messages, this is mostly done. 
-	- Slight sound edits. 
+	- Room 1 messages, this is mostly done. @done
+	- might change screen a little in theater
+	- Sound mixing and levels
 	- Potential interaction with objects in opening room (small, I haven't thought this through yet)
 	- Neon sign change message upon respawn
+	- Skybox - Maybe like a night sky thing? I dont like the bright sky
+	- Replace portrait
+	- Image in opening
+	- I think I wanna be able to crouch?
+	- Shadows seem a bit weird in the opening, specifically the trash can and the chair in front of the desk
+	- Same with collision boxes RE the front of the character, I think the First Person Character is still compensating for his arms that aren't there.
+	- Trigger sound hallway (small click)
