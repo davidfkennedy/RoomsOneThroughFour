@@ -10,9 +10,9 @@ project.todo
 	- Potential interaction with objects in opening room (small, I haven't thought this through yet)
 	- Neon sign change message upon respawn
 	- Skybox - Maybe like a night sky thing? I dont like the bright sky
-	- Replace portrait
+	- Replace portrait @done
 	- Image in opening
 	- I think I wanna be able to crouch?
 	- Shadows seem a bit weird in the opening, specifically the trash can and the chair in front of the desk
-	- Same with collision boxes RE the front of the character, I think the First Person Character is still compensating for his arms that aren't there.
+	- Same with collision boxes RE the front of the character, I think the First Person Character is still compensating for his arms that aren't there. @done 
 	- Trigger sound hallway (small click)
