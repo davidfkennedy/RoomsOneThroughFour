@@ -12,7 +12,7 @@ project.todo
 	- Skybox - Maybe like a night sky thing? I dont like the bright sky
 	- Replace portrait @done
 	- Image in opening
-	- I think I wanna be able to crouch?
+	- I think I wanna be able to crouch? @done
 	- Shadows seem a bit weird in the opening, specifically the trash can and the chair in front of the desk
 	- Same with collision boxes RE the front of the character, I think the First Person Character is still compensating for his arms that aren't there. @done 
 	- Trigger sound hallway (small click)
