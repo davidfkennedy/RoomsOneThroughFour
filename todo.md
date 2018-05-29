@@ -9,11 +9,11 @@ project.todo
 	- might change screen a little in theater @done
 	- Sound mixing and levels
 	- Potential interaction with objects in opening room (small, I haven't thought this through yet), one that comes to mind is having the radio show pause when you hit E on the radio and play 1station.wav (which is me just saying, "theres only one station" then it resumes the radio show)
-	- Neon sign change message upon respawn
-	- Skybox - Maybe like a night sky thing? I dont like the bright sky The fog seems to be the issue, especially when you look down.
+	- Neon sign change message upon respawn @done
+	- Skybox - Maybe like a night sky thing? I dont like the bright sky The fog seems to be the issue, especially when you look down. @done
 	- Replace portrait @done
 	- Image in opening, park.png is in the materials folder, I dont know if it'll show up in engine cuz I added it through the finder rather than the engine.
 	- I think I wanna be able to crouch? @done
-	- Shadows seem a bit weird in the opening, specifically the trash can and the chair in front of the desk
+	- Shadows seem a bit weird in the opening, specifically the trash can and the chair in front of the desk @done
 	- Same with collision boxes RE the front of the character, I think the First Person Character is still compensating for his arms that aren't there. @done
 	- Trigger sound hallway (small click)
