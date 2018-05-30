@@ -16,4 +16,4 @@ project.todo
 	- I think I wanna be able to crouch? @done
 	- Shadows seem a bit weird in the opening, specifically the trash can and the chair in front of the desk @done
 	- Same with collision boxes RE the front of the character, I think the First Person Character is still compensating for his arms that aren't there. @done
-	- Trigger sound hallway (small click)
+	- Trigger sound hallway (small click) @done
