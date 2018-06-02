@@ -1,8 +1,7 @@
 project.todo
 	- Fix player start position, should be behind the desk at the top. @done
 	- Fix artwork in opening room @done
-	- Fix end credits
-		- S: Partially done, now plays/disapears correctly, not sure if you wanna add more
+	- Fix end credits @done
 	- Opening credit font is Didot in the original version. @done
 	- Check on video player in room 3 (Video texture no longer emmissive) @done
 	- Room 1 messages, this is mostly done. @done
@@ -12,7 +11,7 @@ project.todo
 	- Neon sign change message upon respawn @done
 	- Skybox - Maybe like a night sky thing? I dont like the bright sky The fog seems to be the issue, especially when you look down. @done
 	- Replace portrait @done
-	- Image in opening, park.png is in the materials folder, I dont know if it'll show up in engine cuz I added it through the finder rather than the engine.
+	- Image in opening, park.png is in the materials folder, I dont know if it'll show up in engine cuz I added it through the finder rather than the engine. @done
 	- I think I wanna be able to crouch? @done
 	- Shadows seem a bit weird in the opening, specifically the trash can and the chair in front of the desk @done
 	- Same with collision boxes RE the front of the character, I think the First Person Character is still compensating for his arms that aren't there. @done
