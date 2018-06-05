@@ -8,6 +8,8 @@ project.todo
 	- might change screen a little in theater @done
 	- Sound mixing and levels
 	- Potential interaction with objects in opening room (small, I haven't thought this through yet), one that comes to mind is having the radio show pause when you hit E on the radio and play 1station.wav (which is me just saying, "theres only one station" then it resumes the radio show)
+	- Fix sound direction on radio. 
+	- Small changes to text
 	- Neon sign change message upon respawn @done
 	- Skybox - Maybe like a night sky thing? I dont like the bright sky The fog seems to be the issue, especially when you look down. @done
 	- Replace portrait @done
