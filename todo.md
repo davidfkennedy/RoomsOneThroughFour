@@ -1,4 +1,5 @@
 project.todo
+	- Sound mixing and levels
 	- Fix player start position, should be behind the desk at the top. @done
 	- Fix artwork in opening room @done
 	- Fix end credits @done
@@ -6,10 +7,9 @@ project.todo
 	- Check on video player in room 3 (Video texture no longer emmissive) @done
 	- Room 1 messages, this is mostly done. @done
 	- might change screen a little in theater @done
-	- Sound mixing and levels
-	- Potential interaction with objects in opening room (small, I haven't thought this through yet), one that comes to mind is having the radio show pause when you hit E on the radio and play 1station.wav (which is me just saying, "theres only one station" then it resumes the radio show)
-	- Fix sound direction on radio. 
-	- Small changes to text
+	- Potential interaction with objects in opening room (small, I haven't thought this through yet), one that comes to mind is having the radio show pause when you hit E on the radio and play 1station.wav (which is me just saying, "theres only one station" then it resumes the radio show) @done
+	- Fix sound direction on radio. @done
+	- Small changes to text @done
 	- Neon sign change message upon respawn @done
 	- Skybox - Maybe like a night sky thing? I dont like the bright sky The fog seems to be the issue, especially when you look down. @done
 	- Replace portrait @done
